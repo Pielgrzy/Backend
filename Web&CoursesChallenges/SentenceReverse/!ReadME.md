@@ -4,6 +4,6 @@ For example, the string “Dog bites man” should output as “man bites Dog.�
 2. After you’ve solved this challenge, try adding sentence capitalization and punctuation to your code. So, the string “Codecademy is the best!” 
 should output as “Best the is Codecademy!”<br/>
 
-Self solution level
+Self solution level<br/>
 1 - 3.5/5 <br/>
 2 - 4.5/5 <br/>
