@@ -7,3 +7,5 @@ should output as “Best the is Codecademy!”<br/>
 Self solution level<br/>
 1 - 3.5/5 <br/>
 2 - 4.5/5 <br/>
+
+Challange level: beginner
