@@ -5,4 +5,6 @@ IN  = aaafffcccc;<BR/>
 OUT = 3a3f4c <BR/>
 
 Self solution level:
-4/5
+4/5<br/>
+
+Challange level: beginner
