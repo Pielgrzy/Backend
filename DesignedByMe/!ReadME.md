@@ -23,11 +23,11 @@ Print values</br>
 STAGE 2: IN PROGESS</br> 
 #TAG: </br>
 User console program, fully custom class book creation, some grade statistic</br>
-WISH LIST(as option list): save file to csv format   
+WISH LIST(as option): save file to csv format   
 
 STAGE 3: START AFTER STAGE 2</br> 
 #TAG: </br>
-Connection with MySQL data base, 
+Connection with MySQL data base, posibility to create many class grade books, statistic operation  
 
 ----------
 PROJECT 3</br>
@@ -46,5 +46,11 @@ PROJECT 5</br>
 ----------
 
 Factory with mounting time calculations, narrow workstation flow optimization method, working with ERP form project 4 
+
+----------
+PROJECT 6</br>
+----------
+
+Big data base, build statistic, makret variation, historic variation. Based on stock database.    
 
 ----------
