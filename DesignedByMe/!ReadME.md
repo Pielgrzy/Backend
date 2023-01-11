@@ -20,12 +20,15 @@ Hard coded program for testing class dependences and some logic system. Show dep
 Print values</br>
 ![obraz](https://user-images.githubusercontent.com/47796557/208758239-839fcf10-cdbb-4b42-9eb2-123dfd25baeb.png)
 
-STAGE 2: ALMOST 95%!!</br> 
-#TAG: </br>
-User console program, fully custom class book creation, some grade statistic</br>
-WISH LIST(as option): save file to csv format   
+STAGE 2: DONE</br> 
+#TAG: [Table; Object; StringBuilder, Enum, List]
 
-STAGE 3: START AFTER STAGE 2</br> 
+User console program, fully custom class book creation as main program.</br>
+You can also have some grade statistic, student index generator, better print view and many more!! Just buy Class Book DLC Pro+!!</br>
+If you buy DLC as preorder now, you will receive save file to csv format option totally for free.</br>
+Only now, special price for you my friend.</br>
+
+STAGE 3: IN PROGRESS 2</br> 
 #TAG: </br>
 Connection with MySQL data base, posibility to create many class grade books, statistic operation  
 
